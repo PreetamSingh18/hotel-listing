@@ -1,0 +1,243 @@
+[
+    {
+        "id":1,
+        "name":"The Montcalm Royal House ",
+        "image":"https://tinyurl.com/wcr8wjar",
+        "location":"London",
+        "address":"10 Pepys Street, London ",
+        "price":"18,866"
+    },
+    {
+        "id":2,
+        "name":"The Langham ",
+        "image":"https://t.ly/n84PW",
+        "location":"London",
+        "address":"31/36 Leicester Square, London",
+        "price":"11,456"
+    },
+    {
+        "id":3,
+        "name":"Park Grand London Hyde Park",
+        "image":"https://t.ly/06-qE",
+        "location":"London",
+        "address":"78 - 82 Westbourne Terrace Paddington, London ",
+        "price":"19,998"
+    },
+    {
+        "id":4,
+        "name":" The Resident Covent Garden",
+        "image":"https://t.ly/Dgdrk",
+        "location":"London",
+        "address":"31/36 Leicester Square, London",
+        "price":"14,166"
+    },
+    {
+        "id":5,
+        "name":"Park Grand Paddington Court",
+        "image":"https://t.ly/gL1V8",
+        "location":"London",
+        "address":"27 Devonshire Terrace Paddington, London ",
+        "price":"10,666"
+    },
+    {
+        "id":6,
+        "name":"Radisson Blu Edwardian Hotel",
+        "image":"https://t.ly/Xb747",
+        "location":"London",
+        "address":"60 Hyde Park Gate, London",
+        "price":"9,886"
+    },
+    {
+        "id":7,
+        "name":"Novotel London Blackfriars",
+        "image":"https://shorturl.at/ghnyK",
+        "location":"London",
+        "address":"10 Pepys Street, London ",
+        "price":"11,600"
+    },
+  
+    {
+        "id":8,
+        "name":"St. Athans Hotel",
+        "image":"https://shorturl.at/jlPR8",
+        "location":"London",
+        "address":"27 Devonshire Terrace Paddington, London",
+        "price":"8,540"
+    },
+    {
+        "id":9,
+        "name":"The Chelsea Harbour Hotel & Spa",
+        "image":"https://shorturl.at/djoBW",
+        "location":"London",
+        "address":"20 Middlesex Street, London",
+        "price":"13,000"
+    },
+    {
+        "id":10,
+        "name":"The Pelham-Starhotels Collezione",
+        "image":"https://shorturl.at/uDGV9",
+        "location":"London",
+        "address":"60 Hyde Park Gate, London",
+        "price":"14,666"
+    },
+    {
+        "id":11,
+        "name":"Travelodge London City hotel",
+        "image":"https://tinyurl.com/2s38m2px",
+        "location":"London",
+        "address":"20 Middlesex Street, London",
+        "price":"14,209"
+    },
+    {
+        "id":12,
+        "name":"The Taj Mahal Palace",
+        "image":"https://tinyurl.com/3zy3b24w",
+        "location":"Mumbai",
+        "address":"Apollo Bunder Road, Mumbai 400001 India",
+        "price":"23,866"
+    },
+    {
+        "id":13,
+        "name":"Taj Santacruz",
+        "image":"https://tinyurl.com/wcr8wjar",
+        "location":"Mumbai",
+        "address":" Santacruz, Mumbai ",
+        "price":"19,998"
+    },
+    {
+        "id":14,
+        "name":"The Lalit Mumbai",
+        "image":"https://t.ly/Dgdrk",
+        "location":"Mumbai",
+        "address":"Andheri East, Mumbai 400059 India",
+        "price":"14,166"
+    },
+    {
+        "id":15,
+        "name":"Sofitel Mumbai BKC",
+        "image":"https://t.ly/gL1V8",
+        "location":"Mumbai",
+        "address":"Bandra East, Mumbai 400051 India ",
+        "price":"10,666"
+    },
+    {
+        "id":16,
+        "name":"The St. Regis Mumbai",
+        "image":"https://t.ly/Xb747",
+        "location":"Mumbai",
+        "address":"462 Senapati Bapat Marg Lower Parel, Mumbai",
+        "price":"9,886"
+    },
+    {
+        "id":17,
+        "name":"Radisson Blu",
+        "image":"https://shorturl.at/ghnyK",
+        "location":"Mumbai",
+        "address":" Andheri East, Mumbai 400059 India",
+        "price":"11,600"
+    },
+  
+    {
+        "id":18,
+        "name":"Citadines Tour Eiffel Paris",
+        "image":"https://shorturl.at/jlPR8",
+        "location":"Paris",
+        "address":"132 boulevard de Grenelle 15th Arr., 75015 Paris France",
+        "price":"8,540"
+    },
+    {
+        "id":19,
+        "name":"Hotel Marignan Champs-Elysées",
+        "image":"https://shorturl.at/djoBW",
+        "location":"Paris",
+        "address":"12 rue de Marignan 08 Arr, 75008 Paris France",
+        "price":"13,000"
+    },
+    {
+        "id":20,
+        "name":"Passy Eiffel Hotel",
+        "image":"https://shorturl.at/uDGV9",
+        "location":"Paris",
+        "address":"10 rue de Passy, 75016 Paris France",
+        "price":"14,666"
+    },
+    {
+        "id":21,
+        "name":"Hôtel Regina Louvre",
+        "image":"https://tinyurl.com/2s38m2px",
+        "location":"Paris",
+        "address":"2 Place des Pyramides, 75001 Paris France",
+        "price":"14,209"
+    },{
+        "id":22,
+        "name":"Hotel Mayfair Paris",
+        "image":"https://shorturl.at/uDGV9",
+        "location":"Paris",
+        "address":"3 rue Rouget de Lisle, 75001 Paris France",
+        "price":"7,666"
+    },
+    {
+        "id":23,
+        "name":"Hotel Da Vinci",
+        "image":"https://t.ly/n84PW",
+        "location":"Paris",
+        "address":"25 Rue des Saints-Peres, 75006 Paris France",
+        "price":"19,209"
+    },
+    {
+        "id":24,
+        "name":"Pod 51 Hotel",
+        "image":"https://tinyurl.com/mu3ksyb",
+        "location":"New York",
+        "address":"230 East 51st Street, New York City",
+        "price":"18,866"
+    },
+    {
+        "id":25,
+        "name":"Refinery Hotel",
+        "image":"https://t.ly/n84PW",
+        "location":"New York",
+        "address":"63 W 38th St, New York City,",
+        "price":"11,456"
+    },
+    {
+        "id":26,
+        "name":"The Herald 8 by LuxUrban",
+        "image":"https://t.ly/06-qE",
+        "location":"New York",
+        "address":"71 West 35th Street, New York City",
+        "price":"19,998"
+    },
+    {
+        "id":27,
+        "name":"Soho Grand Hotel",
+        "image":"https://t.ly/Dgdrk",
+        "location":"New York",
+        "address":"310 West Broadway, New York City",
+        "price":"14,166"
+    },
+    {
+        "id":28,
+        "name":"1 Hotel Central Park",
+        "image":"https://t.ly/gL1V8",
+        "location":"New York",
+        "address":"1414 Avenue of the Americas, New York City",
+        "price":"10,666"
+    },
+    {
+        "id":29,
+        "name":"Hotel Mulberry",
+        "image":"https://t.ly/Xb747",
+        "location":"New York",
+        "address":"52 Mulberry St, New York City, NY 10013-4315",
+        "price":"9,886"
+    },
+    {
+        "id":30,
+        "name":"Hotel Indigo NYC Downtown - Wall Street",
+        "image":"https://shorturl.at/ghnyK",
+        "location":"New York",
+        "address":"120 Water St # 122, New York City",
+        "price":"11,600"
+    }
+]

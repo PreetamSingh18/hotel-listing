@@ -1,38 +1,213 @@
-.App {
-  text-align: center;
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    /* background-color: #e1e4f8; */
+    text-decoration: none;
+}
+.Navbox{
+    height: 8vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(161, 47, 255);
+}
+.Navbox h3{
+    font-size: 25px;
+    color: white;
+    font-weight: 600;
+    background: transparent;
+}
+.Container{
+background-color: #e1e4f8;
+/* height: 92vh; */
+}
+.Box-Heading{
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 30%;
+    margin: auto;
+}
+.Box-Heading h3{
+    font-size: 30px;
+}
+.Products-Box{
+    width: 80%;
+    margin: auto;
+}
+.Feature-Box{
+    display: flex;
+    justify-content: space-between;
+}
+.Filter-Box .btn{
+    margin: 2px 5px 2px 5px;
+    background-color: #d4d4ed;
+    border: none;
+    padding:6px 8px 6px 8px;
+    border-radius: 30px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.Filter-Box .btn1{
+    background-color:#3939df; 
+    color: white;
+ 
+    
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* .Filter-Box button:focus{
+    background-color: blue;
+} */
+
+.ViewAll-Btn{
+    margin: 2px 5px 2px 5px;
+    border: 2px solid #8477e8;
+    padding:6px 8px 6px 8px;
+    color: #8477e8;
+    border-radius: 30px;
+    font-weight: 600;
+    cursor: pointer;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+
+.AllProducts{
+         display: grid;
+         grid-template-columns: auto auto auto;
+          column-gap: 150px;
+          row-gap: 50px;
+          align-items:center;
+          justify-content: center;
+          
+}
+.Card{
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+
+}
+.Card-Images{
+    align-items: center;
+    text-align: center;
+    margin: 5px;
+   
+}
+.Card-Images img{
+    height: 200px;
+    width: 290px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+.Card-Body{
+  margin: 5px;
+}
+.hotel-location h5{
+ font-size: 10px;
+ color: grey;
+ font-weight: 500;
+}
+.hotel-location,.hotel-name, .hotel-details{
+    margin: 5px;
+}
+.hotel-name h3{
+ font-size: 18px;
+ font-weight: 600;
+ color: black;
+}
+.hotel-facility{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 8px 10px 8px;
+    color: black;
+    
+}
+.hotel-facility h6{
+    font-weight: 600;
+}
+.hotel-details{
+    display: flex;
+    justify-content: space-between;
+    margin:10px 5px 10px 5px;
+    align-items: center;
+}
+.hotel-details h4{
+    color: #000;
+}
+.hotel-details button{
+    color: #5345cf;
+    background: transparent;
+    padding: 10px;
+    border: 2px solid #5345cf;
+    border-radius: 20px;
+    font-weight: 700;
+    margin: 10px 0px 10px 0px;
+    cursor: pointer;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.hotel-details span{
+     color: #5345cf;
+     font-size: 20px;
 }
 
-.App-link {
-  color: #61dafb;
+.ShowBtn{
+    margin: 2px 5px 2px 5px;
+    border: 2px solid #8477e8;
+    padding:6px 8px 6px 8px;
+    color: #8477e8;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    margin: auto;
+    grid-column: 1 / span 3;
+    margin-bottom: 50px;
+    
+}
+.HideBtn{
+    display: none;
+}
+.SingleBox{
+    display: flex;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.SingleBox img{
+    margin: 10px 20px 10px 100px;
+    width: 40%;
+}
+.SingleBox-Body{
+ margin: 20px;
+}
+.SingleBox-Body h3{
+    font-size: 50px;
+    font-weight: 600;
+    color: #5345cf;
+}
+
+.SingleBox-location h5{
+    font-size: 20px;
+    color: grey;
+    font-weight: 500;
+}
+.SingleBox-facility{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 8px 10px 8px;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Price h4{
+    font-size: 20px;
+    color: crimson;
+}
+.SingleHotel-Container button{
+    margin: 20px 5px 2px 100px;
+    border: 2px solid #8477e8;
+    padding: 6px 8px 6px 8px;
+    color: #8477e8;
+    border-radius: 30px;
+    font-weight: 600;
+    cursor: pointer;
 }
